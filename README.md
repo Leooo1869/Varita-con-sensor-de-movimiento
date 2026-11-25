@@ -9,10 +9,10 @@ Este es el repositorio de nuestro proyecto final para la materia de proyecto de 
 Nuestro proyecto no responde a ningún problema de la vida diaria.
 
 ## Sensa / Responde
-Hace uso de un sensor de movimiento con el cual mide los patrones de movimiento que realiza el usuario y envía una señal que enciende un sistema de respuesta en el cual muetra luces dependiendo de el movimiento realizado con la barita.
+Hace uso de un sensor de movimiento con el cual mide los patrones de movimiento que realiza el usuario y envía una señal que enciende un sistema de respuesta en el cual muetra luces dependiendo de el movimiento realizado con la Varita.
 
 ## Fabricación
-Necesitaremos fabricar una barita impresa en 3d utilizada como base principal para instalar nuestro sensor. Una pequeña caja de corte láser pequeña para proteger el sensor.
+Necesitaremos fabricar una varita impresa en 3d utilizada como base principal para instalar nuestro sensor. Una pequeña caja de corte láser pequeña para proteger el sensor.
 
 ## Nivel
 Hard mode
