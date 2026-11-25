@@ -1,7 +1,7 @@
 # Proyecto-final-Varita
 Este es el repositorio de nuestro proyecto final para la materia de proyecto de ingeniería.
 
-# Varita mágica con sensor de movimiento
+# Barita mágica con sensor de movimiento
 
 **Equipo:** Jose Alejandro Aguirre Palacios , Leonardo F. Carballido Solano, Giselle Delfin Fernandez, Valeria Olivares Méndez.
 
